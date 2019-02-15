@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{305786BA-BE8C-7600-EAFB-780E0B1D1718}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ViewsManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/KeyboardInteraction.cs" Line="10" Column="35" />
+      <File FileName="Assets/TestChangeMaterial.cs" Line="19" Column="36" />
+      <File FileName="Assets/Scripts/RaycastManager.cs" Line="46" Column="32" />
+      <File FileName="Assets/GoogleVR/Scripts/Controller/GvrControllerInput.cs" Line="540" Column="24" />
+      <File FileName="Assets/SetParent.cs" Line="15" Column="71" />
+      <File FileName="Assets/CircleProgressBar.cs" Line="27" Column="33" />
+      <File FileName="Assets/Scripts/SphereChanger.cs" Line="50" Column="51" />
+      <File FileName="Assets/HideOtherRooms.cs" Line="7" Column="65" />
+      <File FileName="Assets/Scripts/ViewsManager.cs" Line="12" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
