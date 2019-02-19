@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: e6d7e8d37953a4325ada123eb8cfa89e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: //RootNode
+    100004: HUVUDBYGGEKOMPLETT0INREDNING_obj_1
+    400000: CINEMA_4D_Editor
+    400002: //RootNode
+    400004: HUVUDBYGGEKOMPLETT0INREDNING_obj_1
+    2000000: CINEMA_4D_Editor
+    2100000: _0040_Peru_1
+    2100002: M_0111_SlateGray
+    2100004: M_0100_SteelBlue
+    2100006: Steel_Painted
+    2100008: Bolt_Black
+    2100010: M_0034_Wheat
+    2100012: M_0110_LightSlateGray
+    2100014: _0110_LightSlateGray_1
+    2100016: M_0040_Peru
+    2100018: Safety_Yellow
+    2100020: Color_C02
+    2100022: M_0131_Silver
+    2100024: FrontColor
+    2100026: M_0037_SandyBrown
+    2100028: Color_H08
+    2100030: _DarkKhaki_
+    2100032: Translucent_Glass_Tinted
+    2100034: _Ivory_
+    2100036: Translucent_Glass_Blue
+    2100038: _0046_Gold_3
+    2100040: _0136_Charcoal_1
+    2100042: _0081_CadetBlue_1
+    2100044: M_0039_DarkOrange
+    2100046: _Translucent_Glass_Blue_2
+    2100048: Translucent_Glass_Safety
+    2100050: SafetyYellow
+    2100052: CheckerPlate
+    2100054: Translucent_Glass_Dark_Green
+    2100056: Translucent_Glass_Gray
+    2100058: jehovaheaven
+    2100060: Color_M06
+    2300000: HUVUDBYGGEKOMPLETT0INREDNING_obj_1
+    3300000: HUVUDBYGGEKOMPLETT0INREDNING_obj_1
+    4300000: HUVUDBYGGEKOMPLETT0INREDNING_obj_1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

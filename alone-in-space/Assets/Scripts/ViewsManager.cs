@@ -9,7 +9,7 @@ public class ViewsManager : MonoBehaviour
 
     public GameObject spaceship; // spaceship object
     GameObject cameraOverlay; // overlay object
-    private GameObject[] rooms;  // spaceship rooms (360 photos)
+    public GameObject[] rooms;  // spaceship rooms (360 photos)
     private bool _transitionIsActive; // changing view boolean
     private bool _spaceshipIsActive; // boolean controlling the visibility of spaceship in the scene
 
@@ -23,14 +23,6 @@ public class ViewsManager : MonoBehaviour
         spaceship.SetActive(_spaceshipIsActive);
 
         cameraOverlay = GameObject.Find("Fader"); //Find the camera overlay
-        rooms = GameObject.FindGameObjectsWithTag("Room"); //Find all the rooms
-    }
-
-    // UPDATE
-
-    void Update()
-    {
-        if (GvrControllerInput.ClickButtonDown && !_transitionIsActive) StartCoroutine(ViewTransition());
     }
 
     // -------------------------------------------------------------------- //
@@ -73,17 +65,18 @@ public class ViewsManager : MonoBehaviour
         }
     }
 
-    // HIDE ALL ROOMS EXCEPT FOR THE CURRENT ONE
+    // SHOW/HIDE THE ROOM SPHERES
 
-    public void HideOtherRooms(GameObject currentRoom)
+    public void RoomsSetActive(bool visibilityBool)
     {
         foreach (GameObject room in rooms)
         {
-            if(room.GetInstanceID() != currentRoom.GetInstanceID()) room.SetActive(false);
+            room.SetActive(visibilityBool);
         }
     }
 
-    // SWICH VIEWS
+    // SWICH VIEWS BETWEEN SPACESHIP AND SPHERE
+
     private void SwitchViews () 
     {
         spaceship.SetActive(!_spaceshipIsActive);

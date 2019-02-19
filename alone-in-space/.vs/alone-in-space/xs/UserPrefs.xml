@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2FF39849-E5EE-73F2-7DD6-978C8A6645E5}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ViewsManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LogotypesAnimation.cs" Line="35" Column="47" />
+      <File FileName="Assets/Scripts/ViewChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ViewsManager.cs" Line="89" Column="10" />
+      <File FileName="Assets/Scripts/InfoSpotManager.cs" Line="28" Column="54" />
+      <File FileName="Assets/AnimTracker.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="23" Column="57" />
+      <File FileName="Assets/Scripts/ArrowManager.cs" Line="69" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

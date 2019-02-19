@@ -7,6 +7,10 @@ TagManager:
   - Room
   - Hotspot_Room
   - ViewsManager
+  - Spaceship
+  - CameraOverlay
+  - GameManager
+  - Hotspot_Info
   layers:
   - Default
   - TransparentFX
